@@ -1,12 +1,12 @@
 <!-- Sidebar -->
-<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+<ul class="navbar-nav bg-gradient-dark sidebar sidebar-dark accordion" id="accordionSidebar">
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+        <div class="sidebar-brand-text mx-3">PERPUS</div>
     </a>
 
     <!-- Divider -->
@@ -18,13 +18,7 @@
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Buku</span></a>
     </li>
-
-    <!-- Nav Item - peminjaman -->
-    <li class="nav-item">
-        <a class="nav-link" href="/peminjaman">
-            <i class="fas fa-fw fa-tachometer-alt"></i>
-            <span>peminjaman</span></a>
-    </li>
+    
     <!-- Nav Item - Utilities Collapse Menu -->
     <li class="nav-item">
         <a class="nav-link" href="/riwayat">
@@ -41,4 +35,4 @@
     </div>
 
 </ul>
-<!-- End of Sidebar
+<!-- End of Sideba
